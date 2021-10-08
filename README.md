@@ -18,7 +18,7 @@ The service contains a Login form and Registration Form.
 
 * Logging in with the registered account.
 
-## Public REST Interface - Documentation
+
 
 
 ## Framework and programing languages used
